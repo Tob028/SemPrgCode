@@ -1,2 +1,2 @@
 # SemPrgCode
-My code for SemPrgX exercises at school
+My code solutions for SemPrgX assignments at school
