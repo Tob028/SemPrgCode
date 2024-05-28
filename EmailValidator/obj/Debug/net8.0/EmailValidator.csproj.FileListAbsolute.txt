@@ -1,0 +1,15 @@
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.AssemblyInfoInputs.cache
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.AssemblyInfo.cs
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.csproj.CoreCompileInputs.cache
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.sourcelink.json
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/bin/Debug/net8.0/EmailValidator
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/bin/Debug/net8.0/EmailValidator.deps.json
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/bin/Debug/net8.0/EmailValidator.runtimeconfig.json
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/bin/Debug/net8.0/EmailValidator.dll
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/bin/Debug/net8.0/EmailValidator.pdb
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.dll
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/refint/EmailValidator.dll
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.pdb
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/EmailValidator.genruntimeconfig.cache
+/Users/tobiasbednar/Developer/SemPrgCode/EmailValidator/obj/Debug/net8.0/ref/EmailValidator.dll
