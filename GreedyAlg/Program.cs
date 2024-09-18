@@ -21,7 +21,7 @@ for (int i = 0; i < numberOfItems; i++)
 }
 
 // Fill the bag
-jewels.Sort((a, b) => b.price - a.price);
+jewels.Sort((a, b) => b.price / b.volume - a.price / a.volume);
 
 foreach (var jewel in jewels)
 {
